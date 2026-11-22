@@ -904,7 +904,7 @@ AuthorLabel.BackgroundTransparency = 1
 AuthorLabel.Font = Enum.Font.Gotham
 AuthorLabel.TextSize = 11
 AuthorLabel.TextColor3 = UI.SubText
-AuthorLabel.Text = "Built By Xperiencee78"
+AuthorLabel.Text = "Built By Xperience78"
 AuthorLabel.TextXAlignment = Enum.TextXAlignment.Center
 AuthorLabel.Parent = MainFrame
 
